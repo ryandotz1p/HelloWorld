@@ -7,7 +7,7 @@ import tensorflow as tf
 
 def main()
 	{
-		   print("Hello, Wolrd!");
+		   print("Hello, Wolrd");
 	}
 
 main()
